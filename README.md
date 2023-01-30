@@ -1,5 +1,5 @@
 ### Namasthe Nikki Here..!
-I am currently Pursuing Master's degree in the stream of Applied Computer Science, in Germany.Have previously worked in Cognizant Ind Pvt Ltd as a Programmer Analyst.Having
+<!--I am currently Pursuing Master's degree in the stream of Applied Computer Science, in Germany.Have previously worked in Cognizant Ind Pvt Ltd as a Programmer Analyst.Having
 Good practical knowledge on Linux, Unix, SQL, AWS, Windows Application Server, Incident Management, Software Testing and tools like SNOW, Jira & Automation Anywhere. I am currently looking for the full time job  oppurtunities. Please drop me a mail if my skills are suitable for the position you are looking for.
 
 ### Languages and Tools:
@@ -22,7 +22,7 @@ Good practical knowledge on Linux, Unix, SQL, AWS, Windows Application Server, I
   
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikkilovescoffee)
 
-
+-->
 <!--
 **nikilanaidu9/nikilanaidu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
