@@ -1,6 +1,6 @@
 ### Namasthe Nikki Here..!
-I am currently Pursuing Master's degree in the stream of Applied Computer Science, in Germany.Have previously worked in Cognizant Ind Pvt Ltd as a Programmer Analyst.Having
-Good practical knowledge on Linux, Unix, SQL, AWS, Windows Application Server, Incident Management, Software Testing and tools like SNOW, Jira & Automation Anywhere. I am currently looking for the full time job  oppurtunities. Please drop me a mail if my skills are suitable for the position you are looking for.
+I am enthusiastic about utilizing my skills and knowledge to contribute to the success of a dynamic and innovative organization. My academic pursuits have enabled me to stay up-to-date with the latest advancements in the field of Applied Computer Science, and I am eager to apply this knowledge to real-world projects.I have a diverse skill set and a solid background in software development and IT operations. I gained practical knowledge and hands-on experience in the following areas:
+
 Languages and Tools:          
 <img alt="SNOW" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" /> <img id="mouse" style="width:110px;" src="https://www.clipartmax.com/png/full/285-2854312_jira-software-logo-jira-software-logo.png" alt="Jira Software Logo - Jira Software Logo (11x10)" title="Jira Software Logo - Jira Software Logo (11x10)"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" width="100px" height="29px" alt="Jenkins" class="image-style-partners-block">
