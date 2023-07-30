@@ -4,7 +4,7 @@ Good practical knowledge on Linux, Unix, SQL, AWS, Windows Application Server, I
 Languages and Tools:          
 <img alt="SNOW" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" /> <img id="mouse" style="width:110px;" src="https://www.clipartmax.com/png/full/285-2854312_jira-software-logo-jira-software-logo.png" alt="Jira Software Logo - Jira Software Logo (11x10)" title="Jira Software Logo - Jira Software Logo (11x10)"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" width="100px" height="29px" alt="Jenkins" class="image-style-partners-block">
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" width="100px" height="29px" alt="docker" class="image-style-partners-block">
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" width="100px" height="35px" alt="docker" class="image-style-partners-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png" width="100px" height="29px" alt="Kubernetes" class="image-style-partners-block">
 <img src="https://e7.pngegg.com/pngimages/801/466/png-clipart-ansible-devops-puppet-chef-configuration-management-becoming-a-chef-angle-text.png" width="100px" height="29px" alt="Ansible" class="image-style-partners-block">
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*Pn1vXqSDvpl1sJkh" width="100px" height="29px" alt="Prometheus" class="image-style-partners-block">
