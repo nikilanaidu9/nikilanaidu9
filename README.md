@@ -1,5 +1,5 @@
 ### Namasthe Nikki Here..!
-I am having 4 years of professional IT experice and I am enthusiastic about utilizing my skills and knowledge to contribute to the success of a dynamic and innovative organization. My academic pursuits have enabled me to stay up-to-date with the latest advancements in the field of Applied Computer Science, and I am eager to apply this knowledge to real-world projects.I have a diverse skill set and a solid background in software development and IT operations. I gained practical knowledge and hands-on experience in the following areas:      
+I am having 4 years of professional IT experice and I am enthusiastic about utilizing my skills and knowledge to contribute to the success of a dynamic and innovative organization. My academic pursuits have enabled me to stay up-to-date with the latest advancements in the field of Applied Computer Science, and I am eager to apply this knowledge to real-world projects.I have a diverse skill set and a solid background in software development and IT operations. I gained practical knowledge and hands-on experience in the following areas: <!--     
 ###<img alt="SNOW" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" /> <img id="mouse" style="width:110px;" src="https://www.clipartmax.com/png/full/285-2854312_jira-software-logo-jira-software-logo.png" alt="Jira Software Logo - Jira Software Logo (11x10)" title="Jira Software Logo - Jira Software Logo (11x10)"> 
 ###<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" width="100px" height="29px" alt="Jenkins" class="image-style-partners-block">
 ###<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" width="120px" height="40px" alt="docker" class="image-style-partners-block">
@@ -12,7 +12,7 @@ I am having 4 years of professional IT experice and I am enthusiastic about util
 ###<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" width="100px" height="40px" alt="GCP" class="image-style-partners-block">
 ###<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 ###<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoP9QXtnPhKvU9iYHyvaerjeurAA11ZzsXJOzFIWO1KKbVkLJrSmN7fCiju5IxlxgdYg&amp;usqp=CAU" alt="Sql/json Generation Functions In Oracle Database 12c - Oracle Certified  Professional Java Se7 [book] PNG Image | ###Transparent PNG Free Download on  SeekPNG" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 100px; height: 29px; margin: 15.1384px 0px;">
----
+--->
 
 ---
 <!-- BLOG-POST-LIST:END -->
